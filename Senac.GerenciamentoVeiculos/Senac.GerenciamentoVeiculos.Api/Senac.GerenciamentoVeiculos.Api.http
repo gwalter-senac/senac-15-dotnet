@@ -1,0 +1,6 @@
+@Senac.GerenciamentoVeiculos.Api_HostAddress = http://localhost:5043
+
+GET {{Senac.GerenciamentoVeiculos.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
