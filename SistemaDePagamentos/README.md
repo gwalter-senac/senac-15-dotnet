@@ -33,3 +33,6 @@ Processando pagamento de R$ 100,00 no cartão de crédito...
 
 - Opcao de listar pagamentos
     - Listar valores e tipo de pagamento de cada pagamento.
+
+- Opcao de sair do programa
+    - Finaliza o menu do console.
