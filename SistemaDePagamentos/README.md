@@ -3,6 +3,7 @@
 1. Defina uma interface IPagamento contendo:
 
 - Método void Pagar(double valor);
+- Propriedade ValorFinal com get e set
 
 2. Crie 3 classes que implementam a interface:
 
